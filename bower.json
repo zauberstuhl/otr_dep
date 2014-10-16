@@ -1,0 +1,24 @@
+{
+  "name": "otr-dep",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Zauberstuhl/otr_dep",
+  "authors": [
+    "Lukas Matt <lukas@zauberstuhl.de>"
+  ],
+  "description": "Off-The-Record dependencies",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "otr",
+    "dependencies"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
